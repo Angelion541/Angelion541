@@ -1,12 +1,10 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🎓 Mate academy: fe_apr22</code>                              <!-- <code>⚪ Community: Mate</code> -->
+<code>👷 Speciality: Frontend developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>🧻 [Projects](PROJECTS.md)</code>                             <!-- <code>📢 [Public talks: 0](TALKS.md)</code> -->
+<code>👀 [Open-source contribution](CONTRIBUTION.md): 0</code><br>
+<code>🧑‍💻 Languages: JavaScript</code>
+<code>📦 Tech stack: VanillaJS || React</code><br>                  <!-- <code>🪙 [Rates](RATES.md)</code><br> -->
+<code>[![Linkedin](https://api.iconify.design/ion/logo-linkedin.svg?color=%2322f&height=14) LinkedIn](https://www.linkedin.com/in/oleksandr-kapustei/)</code>
+<code>💬 telegram: [@Kapustei_O](https://t.me/Kapustei_O)</code>
+<code>📫 [My E-mail](mailto:kapoo.work@gmail.com)</code>
